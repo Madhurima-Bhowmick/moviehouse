@@ -1,0 +1,31 @@
+{
+    "json.schemas": [
+    
+    ],
+    "workbench.editorAssociations": [
+    
+    ],
+    "eslint.runtime": "",
+    "eslint.options":{
+        "env":{
+            ".es6":true
+        },
+        "parserOptions":{
+            "emaVersion":7
+        }
+    },
+    "jshint.options": {
+    "esversion":6
+    },
+   
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.extensionsPath": "",
+    "http.proxyAuthorization": null,
+    "files.associations": {
+        "*.js": "javascriptreact"
+    },
+    "diffEditor.wordWrap": "on"
+
+}
